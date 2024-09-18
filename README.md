@@ -21,7 +21,10 @@ To get started with ViewHub, download the APK file from the link below and insta
 4. **Start Streaming**: Once installed, open the app and start watching your favorite channels.
 
 ## Screenshots
-(Include a few screenshots of your app in action)
+
+![viewhub scn shot 1](https://github.com/user-attachments/assets/ffa3ec7a-6917-4a1e-b567-2bae9cd27f5c)
+![viewhub scn shot 3](https://github.com/user-attachments/assets/e5ee25c8-9216-4e7b-97f3-e209bdd04053)
+![viewhub scn shot 2](https://github.com/user-attachments/assets/9217bcea-5f09-4c2d-84c6-4bb2d8e57706)
 
 ## Contact & Support
 For any issues or suggestions, please reach out to us at:  
