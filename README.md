@@ -12,7 +12,7 @@
 
 To get started with ViewHub, download the APK file from the link below and install it on your Android device:
 
-[Download ViewHub APK](https://github.com/Marvinkisa1/viewhub/releases/download/v1.0.1/ViewHub.1.0.1.apk)
+[Download ViewHub APK](https://github.com/Marvinkisa1/viewhub/releases/download/v1.0.3/viewhub.1.0.3.apk)
 
 ## How to Install the APK
 1. **Enable Unknown Sources**: Go to `Settings` -> `Security` -> Enable `Unknown Sources` to install apps from outside the Play Store.
