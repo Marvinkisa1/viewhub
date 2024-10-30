@@ -22,9 +22,9 @@ To get started with ViewHub, download the APK file from the link below and insta
 
 ## Screenshots
 
-![viewhub scn shot 1](https://github.com/user-attachments/assets/ffa3ec7a-6917-4a1e-b567-2bae9cd27f5c)
-![viewhub scn shot 3](https://github.com/user-attachments/assets/e5ee25c8-9216-4e7b-97f3-e209bdd04053)
-![viewhub scn shot 2](https://github.com/user-attachments/assets/9217bcea-5f09-4c2d-84c6-4bb2d8e57706)
+![viewhub scn shot 1](https://github.com/user-attachments/assets/549cc7b4-0644-4172-a753-08a8085ae4c4)
+![viewhub scn shot 3](https://github.com/user-attachments/assets/c660d393-f927-4bed-95cf-36f81f99bf73)
+![viewhub scn shot 2](https://github.com/user-attachments/assets/dfa316b1-10d1-42ba-b37f-2e982bd7d1b7)
 
 ## Contact & Support
 For any issues or suggestions, please reach out to us at:  
